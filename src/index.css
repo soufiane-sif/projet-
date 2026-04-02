@@ -1,0 +1,66 @@
+img{
+    width: 200px;
+}
+.App{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: #344742;
+    padding: 10px;
+  
+  
+}
+.btn{
+    background-color: #cfb02c;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+        
+    
+}
+.pp{
+    background-color: #344742;
+    height: 1000px;
+    color: white;
+    font-size: 80px;
+    width: 10000px;
+}
+.pp1{
+    width: 1200px;
+    text-align: center;
+    height: 250px;
+    display: flex;
+    align-items: center;
+}
+
+.photo{
+    height: 566px;
+    width: 967px;
+    border-radius: 300px 0 300px 0;
+
+
+    
+}
+.photo11{
+    width: 1300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
+.hei{
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+}
