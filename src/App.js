@@ -1,5 +1,7 @@
 import Header from "./Header";
-import Home from "./Home";
+import Home from "./home/Home";
+import Section1 from "./home/Section1";
+
 
 
 
@@ -8,6 +10,7 @@ function App() {
     <div>
       <Header />
       <Home />
+      <Section1 />
     </div>
   );
 }
